@@ -1,0 +1,100 @@
+Inventory_ID,Item_Name,Category,Unit,Selling_Price,Total_Qty,Available_Qty,Stock_Status,Stock_Flag,Added_Date
+INV-361230af,Ridge Gourd (Beerakaya),Vegetables,kg,44,30,30,Available,OK,2026-09-10
+INV-a4f892ab,Okra (Lady's Finger),Vegetables,kg,45,100,100,Available,OK,2026-09-10
+INV-6cecd5ae,Mango Leaves (Tholakoora),Leaves,bundle,15,100,100,Available,OK,2026-09-10
+INV-fb00aa2e,Jamun Leaves (Neredu Aaku) ⭐,Leaves,bundle,10,100,100,Available,OK,2026-09-10
+INV-9df87fce,Doob Grass (Garika),Leaves,bundle,12,100,100,Available,OK,2026-09-10
+INV-b262a545,Lemon (Nimmakaya),Fruits,piece,5,100,100,Available,OK,2026-09-10
+INV-e6837ad8,Guava (Jama Pandu),Fruits,kg,149,10,0,Out Of Stock,Stale - verify with team,2026-09-10
+INV-c7760738,Custard Apple (Sitaphal),Fruits,piece,27,70,70,Available,OK,2026-09-10
+INV-0c36ca72,Yellow Cucumber (Dosakaya),Vegetables,kg,43,40,40,Available,OK,2026-09-10
+INV-e32d1e51,Tomato,Vegetables,kg,41,100,100,Available,OK,2026-09-10
+INV-56e743ae,Ivy Gourd (Dondakaya),Vegetables,kg,44,70,70,Available,OK,2026-09-10
+INV-e3a93ccb,Green Chilli,Vegetables,kg,60,40,40,Available,OK,2026-09-10
+INV-84c98708,Carrot,Vegetables,kg,69,40,40,Available,OK,2026-09-10
+INV-909d742a,Brinjal (Eggplant),Vegetables,kg,48,69,69,Available,OK,2026-09-10
+INV-14a7d9e6,Bottle Gourd (Sorakaya),Vegetables,piece,33,50,50,Available,OK,2026-09-10
+INV-931afc3c,Bitter Gourd (Kakarakaya),Vegetables,kg,45,80,80,Available,OK,2026-09-10
+INV-6712aea7,Cow Milk (Aavu Paalu),Dairy,litre,89,5,5,Available,OK,2026-09-11
+INV-afec4cc2,Cauliflower,Vegetables,kg,54,20,20,Available,OK,2026-09-11
+INV-fb2afee4,Cabbage,Vegetables,kg,45,20,20,Available,OK,2026-09-11
+INV-07d4c436,Pomegranate (Danimma),Fruits,piece,26,10,10,Available,OK,2026-09-11
+INV-68854cce,Papaya (Boppaya),Fruits,piece,39,10,10,Available,OK,2026-09-11
+INV-eaea23ab,Beetroot,Vegetables,kg,47,20,20,Available,OK,2026-09-11
+INV-76abeff2,Sapota (Chikoo),Fruits,piece,10,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-69d5efc8,Amla Leaves (Usiri Aaku),Leaves,bundle,12,10,10,Available,OK,2026-09-11
+INV-0f48c604,Ash Gourd (Boodida Gummadi),Vegetables,piece,90,10,10,Available,OK,2026-09-11
+INV-ddd7e315,Drumstick (Munagakaya),Vegetables,bundle,33,10,10,Available,OK,2026-09-11
+INV-6f17662a,Onion Big,Vegetables,kg,84,50,50,Available,OK,2026-09-11
+INV-7c9ecc11,Onion small,Vegetables,kg,63,50,50,Available,OK,2026-09-11
+INV-c7bf1b2f,Coriander (Kothimira),Leafy greens,bundle,24,20,20,Available,OK,2026-09-11
+INV-7c8c64a4,Curry Leaves (Karivepaku),Leafy greens,bundle,13,10,10,Available,OK,2026-09-11
+INV-fe9eae5a,Drumstick Leaves (Munaga Aku),Leafy greens,bundle,19,30,30,Available,OK,2026-09-11
+INV-921e5d64,Mint (Pudina),Leafy greens,bundle,26,20,20,Available,OK,2026-09-11
+INV-46fd7a52,Spinach (Palakura),Leafy greens,bundle,19,30,30,Available,OK,2026-09-11
+INV-670e634c,Goat Milk (Meka Paalu),Dairy,litre,359,3,3,Available,OK,2026-09-11
+INV-7b037fdb,Buffalo Milk (Gedhe Paalu),Dairy,litre,99,10,10,Available,OK,2026-09-11
+INV-004510de,Bilva Leaves (Maredu),Leaves,bundle,19,10,10,Available,OK,2026-09-11
+INV-64d5c63a,Ashoka Leaves,Leaves,bundle,10,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-6f8ce922,White Brinjal (తెల్ల వంకాయ),Vegetables,kg,45,20,20,Available,OK,2026-09-11
+INV-77acfa4d,Gongura (Sorrel Leaves),Leafy greens,bundle,17,10,10,Available,OK,2026-09-11
+INV-c4f0cbeb,Malabar Spinach (Bachalikura),Leafy greens,bundle,21,10,10,Available,OK,2026-09-11
+INV-de8f93b5,Tamarind Leaves (Chinta Aaku) ⭐,Leaves,bundle,15,10,10,Available,OK,2026-09-11
+INV-2903d865,Tulasi Sprigs,Leaves,bundle,10,10,10,Available,OK,2026-09-11
+INV-a03bdd05,Pumpkin (Gummadi),Vegetables,piece,77,10,10,Available,OK,2026-09-11
+INV-0fce7410,Purple Baby Brinjal (గుత్తి వంకాయ),Vegetables,kg,49,20,20,Available,OK,2026-09-11
+INV-055dc5a1,Raw Banana (Aratikaya),Vegetables,dozen,49,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-eb9cd6c0,Ummetta Leaves (Ummetta Aaku),Leaves,bundle,6,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-096fd279,Uttareni Leaves (Uttareni Aaku),Leaves,bundle,7,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-fddcd3c0,Vishnukranta Leaves (Vishnukranta Aaku),Leaves,bundle,20,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-83372342,Regu Leaves (Regu Aaku),Leaves,bundle,15,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-ebc400a3,Moduga Leaves (Moduga Aaku),Leaves,bundle,25,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-a721352a,Maruvamu Leaves (Maruvamu Aaku),Leaves,bundle,6,10,0,Out Of Stock,Stale - verify with team,2026-09-11
+INV-0093a82a,Jaji Leaves (Jaji Aaku),Leaves,bundle,9,10,0,Out Of Stock,Stale - verify with team,2026-09-12
+INV-721119d0,Machi Leaves (Machi Aaku),Leaves,bundle,15,10,0,Out Of Stock,Stale - verify with team,2026-09-12
+INV-7f4aafaf,Shami Leaves (Shami Aaku),Leaves,bundle,7,10,0,Out Of Stock,Stale - verify with team,2026-09-12
+INV-4782643e,Ganneru Leaves (Ganneru Aaku),Leaves,bundle,6,10,0,Out Of Stock,Stale - verify with team,2026-09-12
+INV-fc7e6853,Peepal Leaves (Ravi Aaku),Leaves,bundle,6,10,10,Available,OK,2026-09-12
+INV-fcf37a01,Amaranth (Thotakura),Leafy greens,bundle,19,10,10,Available,OK,2026-09-12
+INV-8821b382,Pomegranate Leaves (Danimma Aaku),Leaves,bundle,6,10,10,Available,OK,2026-09-12
+INV-4a48b835,Snake Gourd (Potlakaya),Vegetables,kg,49,10,10,Available,OK,2026-09-12
+INV-0b968690,Brihati Leaves (Brihati Aaku),Leaves,bundle,6,10,0,Out Of Stock,Stale - verify with team,2026-09-12
+INV-bb476f18,Green Cucumber (Kakdi),Vegetables,kg,44,15,15,Available,OK,2026-09-12
+INV-84fc04be,Cluster Beans (Goru Chikkudu),Vegetables,kg,69,20,20,Available,OK,2026-09-12
+INV-995a1e25,Vavili Leaves (Nishinda Aaku) ⭐,Leaves,bundle,25,10,10,Available,OK,2026-09-12
+INV-e52fd6ba,Jilledu Leaves (Jilledu Aaku),Leaves,bundle,20,10,10,Out of Stock,OK,2026-09-12
+INV-218dd7e4,Hibiscus Leaves (Mandara Aaku),Leaves,bundle,45,10,10,Out of Stock,OK,2026-09-12
+INV-ae739577,Gorenta Leaves (Gorrinta Aaku),Leaves,bundle,60,10,10,Available,OK,2026-09-12
+INV-64445e0b,Banana Leaf (Arati Aaku),Leaves,piece,10,30,30,Available,OK,2026-09-12
+INV-100b7979,Pink Rose,Flowers,dozen,20,10,10,Available,OK,2026-09-12
+INV-19b6f42d,Hibiscus (Mandara / Japa),Flowers,bundle,39,10,10,Available,OK,2026-09-12
+INV-b310470c,Crossandra (Kanakambaram),Flowers,kg,250,2,2,Low Stock,OK,2026-09-12
+INV-49e51c5a,Coconut (Fresh - Kobbari),Fruits,piece,39,100,100,Available,OK,2026-09-12
+INV-64884307,Banana (Arati Pandu),Fruits,dozen,99,10,10,Available,OK,2026-09-12
+INV-fb9bb4f2,Taro Root (Chamadumpa),Vegetables,kg,74,5,5,Available,OK,2026-09-12
+INV-81767cbe,Spine Gourd (Boda Kakarakaya / Kantola),Vegetables,kg,147,5,5,Available,OK,2026-09-12
+INV-46c60f8a,Beans (French Beans),Vegetables,kg,64,10,10,Available,OK,2026-09-12
+INV-6f7dab5e,Marigold-Yellow (Banthipoolu),Flowers,kg,110,50,50,Available,OK,2026-09-12
+INV-61e38fcf,Marigold-Orange (Banthipoolu),Flowers,kg,110,50,50,Available,OK,2026-09-12
+INV-8a9a95c3,Broad Beans (Chikkudukaya),Vegetables,kg,64,30,30,Available,OK,2026-09-12
+INV-d6d42315,Potato,Vegetables,kg,39,40,40,Available,OK,2026-09-12
+INV-d879f769,Chrysanthemum (Chamanti),Flowers,kg,449,5,5,Available,OK,2026-09-14
+INV-398ecb28,Maize (Mokkajonna),Cereals,kg,94,100,100,Available,OK,2026-09-16
+INV-b07954d9,Radish (Mullangi),Vegetables,kg,54,5,5,Available,OK,2026-09-23
+INV-e06f7fd3,Aloe Vera (Kalabanda),Leaves,kg,34,3,3,Available,OK,2026-09-24
+INV-67f857e0,Apple (Seema Apple),Fruits,kg,230,20,20,Available,OK,2026-09-24
+INV-3f6561bd,Corn (Sweet Corn),Vegetables,piece,25,100,100,Available,OK,2026-09-24
+INV-c673fae4,Barnyard Millet (Udalu),Millets,kg,209,25,25,Available,OK,2026-09-28
+INV-edef61af,Finger Millet (Ragi),Millets,kg,93,25,25,Available,OK,2026-09-28
+INV-8a8a13ca,Foxtail Millet (Korralu),Millets,kg,139,25,25,Available,OK,2026-09-28
+INV-0fe7334e,Kodo Millet (Arikelu),Millets,kg,134,25,25,Available,OK,2026-09-28
+INV-805ac2b3,Little Millet (Samalu),Millets,kg,249,25,25,Available,OK,2026-09-28
+INV-4522af2a,Pearl Millet (Sajjalu),Millets,kg,64,25,25,Available,OK,2026-09-28
+INV-a5f76b62,Proso Millet (Variga),Millets,kg,129,25,25,Available,OK,2026-09-28
+INV-6254f5d2,Sorghum / Jowar (Jonna),Millets,kg,129,25,25,Available,OK,2026-09-28
+INV-4ef4e682,Jaggery,Farm Pantry,kg,69,50,50,Available,OK,2026-10-01
+INV-e5b4d2e4,Moong Dal (Pesara Pappu),Pulses,kg,117,100,100,Available,OK,2026-10-01
+INV-5bf91ab1,Toor Dal (Kandi Pappu),Pulses,kg,136,100,100,Available,OK,2026-10-01
+INV-621c4507,Kobbari Bondam,Fruits,piece,54,20,20,Available,OK,2026-10-03
+INV-440bc196,Tamarind (Chintapandu),Fruits,kg,229,10,10,Available,OK,2026-10-06
+INV-d4c8ded2,Sambar Powder,Farm Pantry,bundle,219,20,20,Available,OK,2026-10-06
